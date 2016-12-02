@@ -3,8 +3,8 @@ title: Code.Parents()
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Code Parents is for people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding.
-baseurl: "/code.parents/" # the subpath of your site, e.g. /blog/
-url: "https://benseymour.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://codeparents.org" # the base hostname & protocol for your site
 twitter_username: bseymour
 github_username:  bseymour
 
