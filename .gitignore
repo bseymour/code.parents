@@ -7,3 +7,15 @@ codekit-config.json
 node_modules
 npm-debug.log*
 _config.yml
+
+_site/2014/08/31/morbi-a-semper.html
+
+_site/blog.html
+
+_site/duis/2014/09/07/duis-in-purus.html
+
+_site/feed.xml
+
+_site/index.html
+
+_site/no-sidebar.html
