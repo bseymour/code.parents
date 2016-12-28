@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Ben Seymour"
+  avatar           : "/images/ProfilePic_Suit_Field1.jpg"
+  bio              : "Former Physics Teacher, turned I.T professional. Primary School Coding Club volunteer, and parent to two children aged 10 & 7."
+  location         : "Oxford, U.K."
   email            :
   uri              :
   bitbucket        :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "bseymour"
   google_plus      :
   keybase          :
   instagram        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "bseymour"
   vine             :
   weibo            :
   xing             :

@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: false
+author_profile: true
 title: Why code?
 date: 2016-12-28T09:00:00+00:00
 type: pages
@@ -13,7 +13,7 @@ Do we seriously think everyone should become a software developer?
 ![Why Code](/images/cp_bg2_medium_prog_mini.jpg)
 
 
-I work in I.T., and I’ve loved experimenting with computers from an early age. I certainly don’t think that everyone should become a coder, just like I don’t think that everyone should become an author… but I do think that everyone should have the opportunity to explore coding, from an early age.</p>
+I work in I.T., and I’ve loved experimenting with computers from an early age. I certainly don’t think that everyone should become a coder, just like I don’t think that everyone should become an author… but I do think that everyone should have the opportunity to explore coding, from an early age.
 
 # Creative expression
 I doubt that many people question the merit of enabling children to write, paint, act, role play, sing, run, climb, participate in sports, play with clay, or play an instrument. These are all such valuable communication and expressive mechanisms for a child to explore.
