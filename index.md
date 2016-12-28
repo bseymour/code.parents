@@ -29,7 +29,7 @@ feature_row:
     url: "/why-code/"
     btn_label: "Why Code?"
     btn_class: "btn--inverse"
-  - image_path: /images/Scratch-Welcome_4_rotate.png
+  - image_path: /images/Scratch-Welcome_4_rotate_4_3.png
     alt: "Getting Started"
     title: "Getting Started"
     excerpt: "Let's explore some great resources to help you get started."
