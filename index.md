@@ -17,7 +17,10 @@ feature_row2:
   - image_path: /images/cp_bg2_medium_prog_mini.jpg
     alt: "Welcome"
     title: "Welcome"
-    excerpt: "Code.Parents() is for people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding.<br/> We recommend getting started on one of the sections below."
+    excerpt: "Code.Parents() is for people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding."
+    url: "/about/"
+    btn_label: "About Code.Parents()"
+    btn_class: "btn--inverse"
 feature_row:
   - image_path: /images/banana-piano_med_prog.jpg
     alt: "Why Code"
