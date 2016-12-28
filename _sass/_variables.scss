@@ -14,7 +14,7 @@ $indent-var                 : 1.3em !default;
 
 /* Google Fonts - check /header/custom to see if loaded */
 $lato                       :'Lato', sans-serif;
-$roboto                     :'Roboto', sans-serif;
+$sourcesanspro              :'Source Sans Pro', sans-serif;
 
 
 /* system typefaces */
@@ -33,8 +33,8 @@ $bodoni                     : "Bodoni MT", serif !default;
 $calisto                    : "Calisto MT", serif !default;
 $garamond                   : Garamond, serif !default;
 
-$global-font-family         : $roboto !default;
-$header-font-family         : $lato !default;
+$global-font-family         : $lato !default;
+$header-font-family         : $sourcesanspro !default;
 $caption-font-family        : $serif !default;
 
 /* type scale */

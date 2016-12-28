@@ -1,8 +1,20 @@
 # main links
 main:
-  - title: "Nav 1"
-    url: /directory/
-  - title: "Nav 2"
-    url: /directory/
-  - title: "Nav 3"
-    url: /directory/
+  - title: "About Code.Parents()"
+    url: /about/
+  - title: "Getting Started"
+    url: /gettingstarted/
+  - title: "Blog"
+    url: /blog/
+  - title: "Raspberry Pi Resources"
+    url: /raspberry-pi/
+
+
+blog_sidenav:
+  - title: Blog Posts
+    url: /blog
+    children:
+      - title: "Categories"
+        url: /categories
+      - title: "Post by Year"
+        url: /year-archive

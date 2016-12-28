@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://bseymour.github.io/notsure/feed.xml" rel="self" type="application/atom+xml" /><link href="http://bseymour.github.io/notsure/" rel="alternate" type="text/html" /><updated>2016-12-07T14:28:46+00:00</updated><id>http://bseymour.github.io/notsure/</id><title>Vanilla MM</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://bseymour.github.io/notsure/feed.xml" rel="self" type="application/atom+xml" /><link href="http://bseymour.github.io/notsure/" rel="alternate" type="text/html" /><updated>2016-12-28T20:46:09+00:00</updated><id>http://bseymour.github.io/notsure/</id><title>Code.Parents()</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title>A Fresh Start</title><link href="http://bseymour.github.io/notsure/2016/12/20/Fresh-Start" rel="alternate" type="text/html" title="A Fresh Start" /><published>2016-12-20T02:09:00+00:00</published><updated>2016-12-20T02:09:00+00:00</updated><id>http://bseymour.github.io/notsure/2016/12/20/Finale</id><content type="html" xml:base="http://bseymour.github.io/notsure/2016/12/20/Fresh-Start">&lt;p&gt;Welcome to Code.Parents().&lt;/p&gt;
+
+&lt;p&gt;At the time of writing, I see two main audiences for this site.
+  1) None/less-technical adults looking for support and guidance in helping children explore coding.
+  2) People with more technical or educational skills, looking to share their experiences and to contribute to the site.&lt;/p&gt;
+
+&lt;p&gt;The previous version of the Code.Parents() site was hand coded, and while it was a lot of fun putting it together, the workflow for content updates was somewhat manual, and made it harder for other people to access and update.&lt;/p&gt;
+
+&lt;p&gt;The code for this site is now on a public github repo (an open store of code which )&lt;/p&gt;
+
+&lt;p&gt;You can see the repo here :&lt;/p&gt;
+
+&lt;p&gt;This means that other (technical) contributors can fork (copy) the code and submit a PR (an offer to submit their updates) in order to push their contributions live on the site.&lt;/p&gt;
+
+&lt;p&gt;The build process utilises Jekyll, and is hosted on GitHub-Pages
+– link to blog post about Jekyll, and gh-pages….&lt;/p&gt;</content><author><name>Your Name</name></author><category term="github" /><summary>Welcome to Code.Parents().</summary></entry></feed>
