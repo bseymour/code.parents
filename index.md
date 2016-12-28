@@ -12,7 +12,7 @@ header:
 excerpt: "Helping people support children<br/>
           starting to explore coding."
 intro:
-  - excerpt: "** This site is in the process of migrated to a new platform <br/> and may not always look as nice as we'd hope. ***"
+  - excerpt: "** This site is in the process of migrated to a new platform <br/> and may not always look as nice as I'd like, sorry. ***"
 feature_row2:
   - image_path: /images/cp_bg2_medium_prog_mini.jpg
     alt: "Welcome"
