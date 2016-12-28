@@ -19,22 +19,22 @@ feature_row2:
     title: "Welcome"
     excerpt: "Code.Parents() is for people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding.<br/> We recommend getting started on one of the sections below."
 feature_row:
-  - image_path: feature2-image-th.jpg
+  - image_path: /images/banana-piano_med_prog.jpg
     alt: "Why Code"
     title: "Why Code?"
     excerpt: "I don't think everyone should become a software developer. But I do think that everyone should have the opportunity to explore coding, ideally from an early age"
     url: "/why-code/"
     btn_label: "Why Code?"
     btn_class: "btn--inverse"
-  - image_path: feature1-image-th.jpg
-    alt: "Alt1"
+  - image_path: /images/Scratch-Welcome_4_rotate.png
+    alt: "Getting Started"
     title: "Getting Started"
     excerpt: "Let's explore some great resources to help you get started."
     url: "/getting-started/"
     btn_label: "Getting Started"
     btn_class: "btn--inverse"
-  - image_path: feature3-image-th.jpg
-    alt: "Alt3"
+  - image_path: /images/rpi-close.jpg
+    alt: "The Raspberry Pi"
     title: "What can we do with a Raspberry Pi?"
     excerpt: "The Raspberry Pi is an amazing device for making computing and coding more accessible."
     url: "/raspberry-pi/"
