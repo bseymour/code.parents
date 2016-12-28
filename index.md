@@ -12,63 +12,38 @@ header:
 excerpt: "Helping people support children<br/>
           starting to explore coding."
 intro:
-  - excerpt: '** Intro message - probably news or current ***'
+  - excerpt: "** This site is in the process of migrated to a new platform <br/> and may not always look as nice as we'd hope. ***"
+feature_row2:
+  - image_path: /images/cp_bg2_medium_prog_mini.jpg
+    alt: "Welcome"
+    title: "Welcome"
+    excerpt: "Code.Parents() is for people with little or no prior computing experience, who would like to be better prepared to encourage and support children in starting to explore coding.<br/> We recommend getting started on one of the sections below."
 feature_row:
+  - image_path: feature2-image-th.jpg
+    alt: "Why Code"
+    title: "Why Code?"
+    excerpt: "I don't think everyone should become a software developer. But I do think that everyone should have the opportunity to explore coding, ideally from an early age"
+    url: "/why-code/"
+    btn_label: "Why Code?"
+    btn_class: "btn--inverse"
   - image_path: feature1-image-th.jpg
     alt: "Alt1"
-    title: "Getting Kids into Coding"
-    excerpt: "Feature 1 excerpt"
-    url: "http://google.co.uk"
-    btn_label: "Go To Ext Site"
-    btn_class: "btn--inverse"
-  - image_path: feature2-image-th.jpg
-    alt: "Alt2"
-    title: "Why Code?"
-    excerpt: "Feature 2 excerpt"
-    url: "/directory/"
-    btn_label: "Go To internal link"
+    title: "Getting Started"
+    excerpt: "Let's explore some great resources to help you get started."
+    url: "/getting-started/"
+    btn_label: "Getting Started"
     btn_class: "btn--inverse"
   - image_path: feature3-image-th.jpg
     alt: "Alt3"
     title: "What can we do with a Raspberry Pi?"
-    excerpt: "Feature 3 excerpt"
-    url: "http://google.co.uk"
-    btn_label: "Go To Ext Site"
+    excerpt: "The Raspberry Pi is an amazing device for making computing and coding more accessible."
+    url: "/raspberry-pi/"
+    btn_label: "The Raspberry Pi"
     btn_class: "btn--inverse"
-feature_row2:
-  - image_path: Feature2-1-th.jpg
-    alt: "Feature2-1"
-    title: "Feature2-1"
-    excerpt: 'Feature2-1 ... longer words....'
-    url: "/directory"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-feature_row3:
-  - image_path: feature3-11-image-th.jpg
-    alt: "Alt3-1"
-    title: "Feature 3-1 Title"
-    excerpt: "Feature 3-1 excerpt"
-    url: "http://google.co.uk"
-    btn_label: "Go To Ext Site"
-    btn_class: "btn--inverse"
-  - image_path: feature2-image-th.jpg
-    alt: "Alt3-2"
-    title: "Feature 3-2 Title"
-    excerpt: "Feature 3-2 excerpt"
-    url: "/directory/"
-    btn_label: "Go To internal link"
-    btn_class: "btn--inverse"
-  - image_path: feature3-3-image-th.jpg
-    alt: "Alt3-3"
-    title: "Feature 3-3 Title"
-    excerpt: "Feature 3-3 excerpt... with no CTA"
+
 
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
-
 {% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" %}
+{% include feature_row %}

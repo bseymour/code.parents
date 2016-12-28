@@ -1,14 +1,12 @@
 # main links
 main:
-  - title: "About Code.Parents()"
+  - title: "About"
     url: /about/
+  - title: "Why code?"
+    url: /why-code/
   - title: "Getting Started"
-    url: /gettingstarted/
-  - title: "Blog"
-    url: /blog/
-  - title: "Raspberry Pi Resources"
-    url: /raspberry-pi/
-
+    url: /getting-started/
+  
 
 blog_sidenav:
   - title: Blog Posts
